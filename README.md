@@ -22,7 +22,7 @@ I'm a Computer Science graduate (California State University, Fresno, May 2026) 
 
 ## More projects
 
-- **Quantitative research:** [GC Intraday Zones](https://github.com/chahatpatel2003/gc-intraday-zones) · [NQ Daily Levels](https://github.com/chahatpatel2003/nq-daily-levels)
+- **Quantitative research:** [NQ Research Platform](https://github.com/chahatpatel2003/nq-trading-system) · [GC Intraday Zones](https://github.com/chahatpatel2003/gc-intraday-zones) · [NQ Daily Levels](https://github.com/chahatpatel2003/nq-daily-levels) · [Topstep Quant](https://github.com/chahatpatel2003/topstep-quant) · [NQ Topstep System](https://github.com/chahatpatel2003/nq-topstep-system) · [Research Archive](https://github.com/chahatpatel2003/Ai-trading-agent-) · [Earlier combined research workspace](https://github.com/chahatpatel2003/Ai-trading-agent-original)
 - **Probability / simulation:** [Monte Carlo Dice & Monty Hall](https://github.com/chahatpatel2003/monte-carlo-dice-and-monty-hall)
 - **Computer science / AI:** [Sliding Puzzle Search](https://github.com/chahatpatel2003/sliding-puzzle-search) · [Image Captioning](https://github.com/chahatpatel2003/image-captioning-transformers) · [Deep Learning Coursework](https://github.com/chahatpatel2003/deep-learning-coursework) · [DQN Space Invaders](https://github.com/chahatpatel2003/dqn-space-invaders)
 
