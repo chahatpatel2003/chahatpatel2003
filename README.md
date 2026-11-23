@@ -14,6 +14,7 @@ I'm a Computer Science graduate (California State University, Fresno, May 2026) 
 
 | Project | Area | Highlights | Tools |
 |---|---|---|---|
+| [Walk-Forward Strategy Research](https://github.com/chahatpatel2003/walk-forward-strategy-research) | Quant research · Backtesting | Bar-by-bar backtesting engine with walk-forward, Monte Carlo and stress tests; 611 backtests of 14 strategies on Nasdaq-100 and gold; 47 configurations passed every out-of-sample check; 224 tests | Python, pandas, NumPy, Matplotlib, pytest |
 | [NQ/GC Market-Data Audit & Backtest Review](https://github.com/chahatpatel2003/nqgc-research) | Data quality · Quant | Audited 547M NQ futures trades; found a 646-minute vendor data outage and a look-ahead leak that explained an earlier backtest's apparent profit | DuckDB SQL, Python, Polars |
 | [NQ Strategy Research](https://github.com/chahatpatel2003/nq-strategy-research) | Quant research | Seven pre-registered hypotheses with sealed holdouts, tick-based fills and random-entry/permutation benchmarks; all results published | DuckDB SQL, Python |
 | [Gold Trading Agent](https://github.com/chahatpatel2003/gold-trading-agent) | Trading · Risk | Pre-trade risk controls (0.25% risk per trade, 2% daily loss limit, 10% drawdown kill switch) and paper trading; live execution disabled | Python, SQLite, FastAPI |
